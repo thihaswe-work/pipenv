@@ -35,8 +35,10 @@ db.sqlite3
 
 ## When someone wants to clone my repo
 
-git clone <repo>
-cd myproject
-pipenv install # installs everything from Pipfile.lock
-pipenv shell
-python manage.py runserver
+<ul>
+<li>git clone <repo></li>
+<li>cd myproject</li>
+<li>pipenv install # installs everything from Pipfile.lock</li>
+<li>pipenv shell</li>
+<li>python manage.py runserver</li>
+</ul>
