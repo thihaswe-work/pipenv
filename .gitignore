@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+db.sqlite3
+# Pipenv stores venv somewhere else, so no need to ignore venv/
